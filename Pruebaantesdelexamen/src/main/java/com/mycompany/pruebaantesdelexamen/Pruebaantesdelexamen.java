@@ -13,6 +13,6 @@ public class Pruebaantesdelexamen {
     public static void main(String[] args) {
      int t=0;
         System.out.println("Come patatas" + 0);
-        System.out.println("hoy no comi");
+        System.out.println("hoy no comimos");
     }
 }
