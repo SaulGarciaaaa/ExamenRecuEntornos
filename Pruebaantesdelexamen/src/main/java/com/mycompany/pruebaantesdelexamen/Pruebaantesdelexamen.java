@@ -6,7 +6,7 @@ package com.mycompany.pruebaantesdelexamen;
 
 /**
  *
- * @author dam106
+ * @author SaulGarciaGironDAM1
  */
 public class Pruebaantesdelexamen {
 
