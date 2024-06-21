@@ -14,6 +14,6 @@ public class Pruebaantesdelexamen {
      int t=0;
         System.out.println("Come patatas" + 0);
         System.out.println("hoy no comio");
-        System.out.println("hoy no comimos");
+        System.out.println("hoy no comimos") ;
     }
 }
