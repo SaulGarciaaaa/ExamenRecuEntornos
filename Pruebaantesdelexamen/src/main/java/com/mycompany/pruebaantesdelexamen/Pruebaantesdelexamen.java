@@ -11,6 +11,7 @@ package com.mycompany.pruebaantesdelexamen;
 public class Pruebaantesdelexamen {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+     int t=0;
+        System.out.println("Come patatas" + 0);
     }
 }
